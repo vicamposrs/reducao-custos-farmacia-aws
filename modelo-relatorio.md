@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 07/06/2026
-Empresa: PharmaHub Distribuidora
-Responsável: Vitor Campos
+- Data: 07/06/2026
+- Empresa: PharmaHub Distribuidora
+- Responsável: Vitor Campos
 
 ## Introdução
 
